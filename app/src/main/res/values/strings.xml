@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ASS_Homework1(Activity)</string>
+    <string name="next">next</string>
+    <string name="previous">previous</string>
+    <string name="info">info</string>
+    <string name="splash">splash</string>
+</resources>
